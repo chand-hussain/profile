@@ -1,0 +1,265 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+  
+    background-color: #f4e4ba;
+}
+button
+{
+    color: white;
+    background-color: black;
+}
+
+.Top
+{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 85px;
+    color: white;
+    background-color: black;
+}
+.Fruits
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7rem;
+}
+.Item1
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.Item2
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.Item3
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.Item4
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.Item5
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+/* 
+2nd div */
+
+.Food
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7rem;
+}
+.f1
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.f2
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.f3
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.f4
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.f5
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+/* Third Div */
+
+.Buildings
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7rem;
+}
+
+.b1
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.b2
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.b3
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.b4
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.b5
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+
+/* 
+Fourth div */
+
+
+.Animals
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7rem;
+}
+.a1
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.a2
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.a3
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.a4
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.a5
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+/* div 5 */
+.sports
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7rem;
+}
+.s1
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.s2
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.s3
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.s4
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+.s5
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+.end
+{
+    margin-top: 4rem;
+    font-size: 2rem;
+     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 75px;
+    background-color: black;
+    color: white;
+}
